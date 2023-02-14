@@ -43,7 +43,7 @@ O correto seria voltar para o **passo número 2!** Isso se deve ao fato de a cai
 
 A lógica para resolver o problema acima exige que sejam estruturados vários comandos sequenciais. Este problema será citado diversas vezes no futuro, pois abordará grande parte dos conceitos que serão ensinados ao longo do ano letivo, além da organização que deveremos ter ao codificar um programa para qualquer solução.
 
-     Lembre-se que um computador nunca será mais inteligente que um humano! Um computador apenas segue uma sequência de tarefas definidas por um humano.
+> Lembre-se que um computador nunca será mais inteligente que um humano! Um computador apenas segue uma sequência de tarefas definidas por um humano.
 
 Para trabalhar com desenvolvimento de soluções para a área de Tecnologia da Informação, você deverá ter uma visão crítica, entendendo o problema de forma holística.
 
