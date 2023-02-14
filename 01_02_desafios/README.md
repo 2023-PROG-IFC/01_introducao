@@ -40,4 +40,4 @@ Caso você queira algo mais desafiador, clique abaixo e veja as propostas sugeri
 
 # 
 
-## [Elevando o nível: Treine o seu raciocínio lógico!](./../01_02_desafios/README.md)
+## [Elevando o nível: Treine o seu raciocínio lógico!](./../01_03_desafios/README.md)
