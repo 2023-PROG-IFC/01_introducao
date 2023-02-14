@@ -71,3 +71,5 @@ Por exemplo, o comando para apresentar um texto qualquer para o usuário.
 ## Falando em JavaScript...
 
 Vamos agora abordar a Linguagem que será utilizada durante toda a nossa jornada de Programação I, disciplina que será ministrada durante o ano letivo para as turmas de 1º Ano dos Cursos Técnicos em Informática do [Instituto Federal Catarinense - Campus Araquari](https://araquari.ifc.edu.br).
+
+[**PRÓXIMO PASSO: JAVASCRIPT**](../01_05_JS/README.md)
