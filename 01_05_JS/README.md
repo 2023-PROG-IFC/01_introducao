@@ -39,9 +39,3 @@ Alguns exemplos de aplicações simples em JavaScript que podemos desenvolver s�
 Agora, vamos certificar os seus conhecimentos básicos em Lógica de Programação.
 
 [**Clique aqui para ir até a apresentação da certificação do curso mantido pela GrassHopper**](../01_06_certificacao_fundamentos/README.md)
-
-
-#
-Se você conseguiu obter a certificação da GrassHopper, excelente! Caso não tenha conseguido *ainda*, vamos então adentrar na sintaxe propriamente dita e explorar o JavaScript na prática.
-
-# [**<u>Clique aqui para começar a programar</u>**](https://github.com/2023-PROG-IFC/02_variaveis_e_operadores)

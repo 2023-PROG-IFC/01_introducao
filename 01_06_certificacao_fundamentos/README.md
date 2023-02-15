@@ -21,4 +21,7 @@ Outro curso recomendável é a de [***Fundamentos II***](https://learn.grasshopp
 ## Let's Coding!
 ![Let's Coding](lets_coding.png)
 
-# [Acesse aqui a próxima etapa da jornada!](https://github.com/2023-PROG-IFC/02_variaveis_e_operadores)
+
+> Se você conseguiu obter a certificação da GrassHopper, excelente! Caso não tenha conseguido ***ainda***, vamos começar a explorar na prática a sintaxe da linguagem JavaScript e, logo que você se sentir confiável, tente a certificação GrassHopper novamente.
+
+# [**<u>Acesse aqui a próxima etapa da jornada!</u>**](https://github.com/2023-PROG-IFC/02_variaveis_e_operadores)
