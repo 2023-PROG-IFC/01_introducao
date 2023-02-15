@@ -1,5 +1,9 @@
 # Hello, JavaScript!
 
+***Requisitos para estar aqui:***
+- Ter lido sobre Lógica de Programação.
+- Caso não tenha lido ainda, [**CLIQUE AQUI**.](../01_04_transicao/README.md)
+
 A primeira versão da Linguagem JavaScript foi lançada em 1995, pela Netscape Communications Corporation, junto com a Sun Microsystems. Alguns browsers possuíam suporte para a Linguagem JavaScript, outros browsers não. Há 25 anos havia, na verdade, uma *guerra dos browsers*, e o browser que predominava era o Netscape Navigator.
 
 Porém, um levantamento realizado em 2022 apontou o seguinte:
@@ -25,8 +29,19 @@ No que respeita a pódio, a linguagem JavaScript é, atualmente, a mais utilizad
 
 Por mais que ocorra uma diminuição da utilização da linguagem JavaScript, fique tranquilo. Para essa disciplina, ela cumpre (e muito bem) o seu propósito, que é o aprendizado de conceitos de Programação.
 
-Veja o que é possível fazer com códigos JavaScript, de forma bem simples:
+Alguns exemplos de aplicações simples em JavaScript que podemos desenvolver são:
 
-- Uma calculadora
-- Uma lista de tarefas
-- 
+- [Uma calculadora](https://ldmfabio.github.io/CalculadoraSimplesJS/)
+- [Uma lista de tarefas](https://ldmfabio.github.io/ToDoListSimplesJS/)
+
+#
+
+Agora, vamos certificar os seus conhecimentos básicos em Lógica de Programação.
+
+[**Clique aqui para ir até a apresentação da certificação do curso mantido pela GrassHopper**](../01_06_certificacao_fundamentos/README.md)
+
+
+#
+Se você conseguiu obter a certificação da GrassHopper, excelente! Caso não tenha conseguido *ainda*, vamos então adentrar na sintaxe propriamente dita e explorar o JavaScript na prática.
+
+# [**<u>Clique aqui para começar a programar</u>**](https://github.com/2023-PROG-IFC/02_variaveis_e_operadores)
