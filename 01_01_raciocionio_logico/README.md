@@ -1,6 +1,6 @@
 ### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
 
-#### [**Página Anterior**](../../01_introducao/)
+#### [**Página Anterior**](https://github.com/2023-PROG-IFC/01_introducao/)
 
 # **RACIOCÍNIO LÓGICO**
 
