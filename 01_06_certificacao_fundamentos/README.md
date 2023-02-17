@@ -1,4 +1,4 @@
-### [**Voltar para o Início**](../../01_introducao/)
+### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
 
 #### [**Página Anterior**](../01_05_JS/)
 

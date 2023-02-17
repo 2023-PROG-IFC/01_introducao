@@ -1,7 +1,5 @@
 ### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
 
-#### [**Página Anterior**](../../01_introducao/)
-
 # **RACIOCÍNIO LÓGICO**
 
 É uma organização que nos possibilita, atendendo às regras e limitações identificadas, resolver um problema, um enigma, ou concluir um simples trabalho. Note sempre haverá a _resolução de um problema_, seja este de qualquer nível de complexidade.
