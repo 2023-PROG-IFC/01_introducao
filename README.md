@@ -1,4 +1,4 @@
-### [**Voltar para o Início**](../../Programacao/README.md)
+### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
 
 # <u>**1INFOs - PROGRAMAÇÃO**</u>
 Este repositório disponibilizará o conteúdo introdutório à disciplina de **Programação I** do <u>Curso Técnico em Informática para Internet</u> do [IFC Campus Araquari](https://araquari.ifc.edu.br/).
