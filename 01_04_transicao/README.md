@@ -43,7 +43,7 @@ Para onde você imagina que o passo 3.5.1. deve retornar?
 - Se retornar para o 3.3, quantas vezes tentará acender o palito?
 - ***Na sua opinião, o correto seria voltar para qual passo?***
 
-O correto seria voltar para o **passo número 2!** Isso se deve ao fato de a caixa ter sido fechada logo após você retirar o palito (3.2).
+Considerando que o palito será descartado, o correto seria voltar para o **passo número 2!** Isso se deve ao fato de a caixa ter sido fechada logo após você retirar o palito (3.2).
 
 A lógica para resolver o problema acima exige que sejam estruturados vários comandos sequenciais. Este problema será citado diversas vezes no futuro, pois abordará grande parte dos conceitos que serão ensinados ao longo do ano letivo, além da organização que deveremos ter ao codificar um programa para qualquer solução.
 
