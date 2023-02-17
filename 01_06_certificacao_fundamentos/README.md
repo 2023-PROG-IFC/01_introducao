@@ -1,3 +1,7 @@
+### [**Voltar para o Início**](../../01_introducao/README.md)
+
+#### [**Página Anterior**](../01_05_JS/README.md)
+
 # Certificação de Fundamentos de Programação
 
 ***Requisitos para estar aqui:***
@@ -24,4 +28,4 @@ Outro curso recomendável é a de [***Fundamentos II***](https://learn.grasshopp
 
 > Se você conseguiu obter a certificação da GrassHopper, excelente! Caso não tenha conseguido ***ainda***, vamos começar a explorar na prática a sintaxe da linguagem JavaScript e, logo que você se sentir confiável, tente a certificação GrassHopper novamente.
 
-# [**<u>Acesse aqui a próxima etapa da jornada!</u>**](https://github.com/2023-PROG-IFC/02_variaveis_e_operadores)
+## [**<u>Acesse aqui a próxima etapa da jornada!</u>**](https://github.com/2023-PROG-IFC/02_variaveis_e_operadores)

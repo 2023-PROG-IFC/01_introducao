@@ -1,3 +1,7 @@
+### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
+
+#### [**Página Anterior**](../01_04_transicao/README.md)
+
 # Hello, JavaScript!
 
 ***Requisitos para estar aqui:***
@@ -38,4 +42,4 @@ Alguns exemplos de aplicações simples em JavaScript que podemos desenvolver s�
 
 Agora, vamos certificar os seus conhecimentos básicos em Lógica de Programação.
 
-[**Clique aqui para ir até a apresentação da certificação do curso mantido pela GrassHopper**](../01_06_certificacao_fundamentos/README.md)
+### [**<u>Clique aqui para ir até a apresentação da certificação do curso mantido pela GrassHopper</u>**](../01_06_certificacao_fundamentos/README.md)

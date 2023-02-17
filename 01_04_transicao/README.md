@@ -1,3 +1,7 @@
+### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
+
+#### [**Página Anterior**](../01_03_desafios/README.md)
+
 # Hello, World!
 
 ***Requisitos para estar aqui:***
@@ -72,4 +76,4 @@ Por exemplo, o comando para apresentar um texto qualquer para o usuário.
 
 Vamos agora abordar a Linguagem que será utilizada durante toda a nossa jornada de Programação I, disciplina que será ministrada durante o ano letivo para as turmas de 1º Ano dos Cursos Técnicos em Informática do [Instituto Federal Catarinense - Campus Araquari](https://araquari.ifc.edu.br).
 
-[**PRÓXIMO PASSO: JAVASCRIPT**](../01_05_JS/README.md)
+### [**<u>Próximo Passo: JavaScript</u>**](../01_05_JS/README.md)

@@ -1,3 +1,7 @@
+### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
+
+#### [**Página Anterior**](../../01_introducao/README.md)
+
 # **RACIOCÍNIO LÓGICO**
 
 É uma organização que nos possibilita, atendendo às regras e limitações identificadas, resolver um problema, um enigma, ou concluir um simples trabalho. Note sempre haverá a _resolução de um problema_, seja este de qualquer nível de complexidade.
@@ -19,4 +23,6 @@ Para resolver problemas de computador, precisamos organizar os pensamentos e def
 
 ***Vamos começar a exercitar o raciocínio lógico!***
 
-Para treinar o seu raciocínio lógico com alguns problemas simples, [**CLIQUE AQUI**.](../01_02_desafios/README.md)
+Para treinar o seu raciocínio lógico com alguns problemas simples, clique abaixo para ir resolver alguns desafios de lógica <u>*próxima página*</u>.
+
+#### [<u>***Desafios de Lógica***</u>](../01_02_desafios/README.md)
