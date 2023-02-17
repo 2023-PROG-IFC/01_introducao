@@ -1,12 +1,12 @@
 ### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
 
-#### [**Página Anterior**](../01_03_desafios/README.md)
+#### [**Página Anterior**](../01_03_desafios/)
 
 # Hello, World!
 
 ***Requisitos para estar aqui:***
 - Ter resolvido pelo menos os dois primeiros testes de raciocínio lógico!
-- Caso não tenha resolvido ainda, [**CLIQUE AQUI**.](../01_02_desafios/README.md)
+- Caso não tenha resolvido ainda, [**CLIQUE AQUI**.](../01_02_desafios/)
 
 
 Comecemos com algumas regras básicas. Para isso, apresentaremos um exemplo de programa para resolver o seguinte problema: *Acender um palito de fósforo!*
@@ -76,4 +76,4 @@ Por exemplo, o comando para apresentar um texto qualquer para o usuário.
 
 Vamos agora abordar a Linguagem que será utilizada durante toda a nossa jornada de Programação I, disciplina que será ministrada durante o ano letivo para as turmas de 1º Ano dos Cursos Técnicos em Informática do [Instituto Federal Catarinense - Campus Araquari](https://araquari.ifc.edu.br).
 
-### [**<u>Próximo Passo: JavaScript</u>**](../01_05_JS/README.md)
+### [**<u>Próximo Passo: JavaScript</u>**](../01_05_JS/)

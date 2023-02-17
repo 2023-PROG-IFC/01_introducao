@@ -1,12 +1,12 @@
 ### [**Voltar para o Início**](https://github.com/2023-PROG-IFC/Programacao)
 
-#### [**Página Anterior**](../01_01_raciocionio_logico/README.md)
+#### [**Página Anterior**](../01_01_raciocionio_logico/)
 
 # Raciocínio Lógico: Desafios
 
 ***Requisitos para estar aqui:***
 - Ter lido a introdução sobre raciocínio lógico.
-- Caso não tenha lido ainda, [**CLIQUE AQUI**.](../01_01_raciocionio_logico/README.md)
+- Caso não tenha lido ainda, [**CLIQUE AQUI**.](../01_01_raciocionio_logico/)
 
 ### *Desafio 1: Lobo, Ovelha e Repolho*
 Você já ouviu falar do desafio do Lobo, da Ovelha e da Alfafa?
@@ -44,4 +44,4 @@ Caso você queira algo mais desafiador, clique abaixo e veja as propostas sugeri
 
 # 
 
-### [<u>**Elevando o nível: Treine o seu raciocínio lógico!**</u>](./../01_03_desafios/README.md)
+### [<u>**Elevando o nível: Treine o seu raciocínio lógico!**</u>](./../01_03_desafios/)

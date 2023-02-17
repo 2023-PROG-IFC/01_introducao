@@ -50,4 +50,4 @@ As etapas acima correspondem com outro algoritmo, composto por etapas que possib
 
 Para já, começaremos com algo menos complexo, mas que servirá para pensar "_em etapas_", exercitando o raciocínio lógico.
 
-# [**Clique aqui para começar a jornada!**](01_01_raciocionio_logico/README.md)
+# [**Clique aqui para começar a jornada!**](01_01_raciocionio_logico/)

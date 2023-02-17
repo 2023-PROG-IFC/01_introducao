@@ -1,12 +1,12 @@
-### [**Voltar para o Início**](../../01_introducao/README.md)
+### [**Voltar para o Início**](../../01_introducao/)
 
-#### [**Página Anterior**](../01_05_JS/README.md)
+#### [**Página Anterior**](../01_05_JS/)
 
 # Certificação de Fundamentos de Programação
 
 ***Requisitos para estar aqui:***
 - Ter lido a introdução de JavaScript.
-- Caso não tenha lido ainda, [**CLIQUE AQUI**.](../01_05_JS/README.md)
+- Caso não tenha lido ainda, [**CLIQUE AQUI**.](../01_05_JS/)
 
 Antes de começarmos a codificar, visando fortalecer os seus conhecimentos em Lógica de Programação, é **extremamente recomendável** que você faça a certificação de Fundamentos de Programação, mantida pelo [***grasshopper***](https://learn.grasshopper.app/).
 
